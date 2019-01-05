@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: cbfd9f1cf7a6e7f46b63c08ff55db447
+timeCreated: 1488637562
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 48
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rodondo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 3
+  ascentCalculationMode: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
